@@ -1,5 +1,5 @@
 // Initialize AWS EC2
-library 'aws-lib@master'
+library 'aws-lib'
 
 pipeline {
     agent {
